@@ -1,161 +1,162 @@
 <p align="center">
-<a href="README.md">🇨🇳 中文</a> | <a href="README_EN.md">🇬🇧 English</a>
+<a href="README_ZH.md">🇨🇳 中文</a> | <a href="README.md">🇬🇧 English</a>
 </p>
 
-# 👋 你好，我是 Jason Stephen
+# 👋 Hi, I'm Jason Stephen
 
-## 🧔我是谁
+## 🧔 Who I Am
 
-🎓 计算机科学 @ 诺丁汉大学 (英国) **(理学硕士)**
+🎓 Computer Science @ University of Nottingham (UK) **(Master of Science)**
 
-💻 主修课程：Web系统开发，SQL数据库管理，计算机网络，软件测试
+💻 Major courses: Web System Development, SQL Database Management, Computer Networks, Software Testing
 
 
-🎓 计算机科学与技术 @ 温州商学院 (中国) **(工学学士)**
+🎓 Computer Science and Technology @ Wenzhou Business College (China) **(Bachelor of Engineering)**
 
-💻 主修课程：机器学习，符号人工智能，智能体设计，Unity游戏开发，ROS2自动化机器人
+💻 Major courses: Machine Learning, Symbolic Artificial Intelligence, Agent Design, Unity Game Development, ROS2 Autonomous Robotics
 
 🧠 MBTI: ENFJ mind · INTJ thinking.
 
-🧩 座右铭: 让兴趣成为对抗焦虑的方式。
+🧩 Motto: Let interest become a way to overcome anxiety.
 
 ---  
-  
-## 💡 我的核心兴趣爱好  
-  
-🎮 Minecraft, 欧洲卡车模拟2, 都市天际线2, 无人深空
 
-📷 摄影, 视频剪辑
+## 💡 My Core Interests  
 
-🧠 系统设计与构建, AI
+🎮 Minecraft, Euro Truck Simulator 2, Cities: Skylines II, No Man's Sky
+
+📷 Photography, Video Editing
+
+🧠 System Design & Construction, AI
   
-**很多时候，我更关心**：  
+**Most of the time, I care more about:**  
   
-> **系统为什么会这样运作，而不是仅仅如何使用它。**  
+> **Why systems work the way they do, rather than simply how to use them.**  
 
 ---  
-  
-## ⚙ 我的代表作  
 
-### 1️⃣ 圆梦俱乐部（YMGS CLUB）
+## ⚙ My Representative Projects  
 
-📅 完成时间：大二 2022  
+### 1️⃣ YMGS CLUB (Dream Club)
 
-**📝简介：** 一个基于游戏的游戏论坛。
+📅 Completed: Sophomore Year · 2022  
 
-**💻技术栈：** HTML 
+**📝 Description:** A game-based forum website.
 
-**💡灵感来源：**
+**💻 Tech Stack:** HTML 
 
-1. 欧洲卡车模拟2
-2. 游戏论坛（类别）
+**💡 Inspiration:**
 
-**⚙项目地址：**[点击这里](https://github.com/JasonStephen/YMGS-Club-H5)
+1. Euro Truck Simulator 2  
+2. Game forums (category structure)
+
+**⚙ Project Link:** [Click here](https://github.com/JasonStephen/YMGS-Club-H5)
 
 ---
 
-### 2️⃣ 无人深空星球分享站（NMSS）
+### 2️⃣ No Man's Sky Planet Sharing Site (NMSS)
 
-📅 完成时间：大三  2023
+📅 Completed: Junior Year · 2023
 
-**📝简介：** 一个基于"无人深空"游戏（来自HelloGame）的星球分享网站
+**📝 Description:** A planet-sharing website based on the game **No Man's Sky** (by Hello Games).
 
-**💻技术栈：** HTML; Vue
+**💻 Tech Stack:** HTML; Vue
 
-**💡灵感来源：**
+**💡 Inspiration:**
 
 1. No Man's Sky
 
-**⚙项目地址：**[点击这里](https://github.com/JasonStephen/NMS-Vue-Database-Repository)
+**⚙ Project Link:** [Click here](https://github.com/JasonStephen/NMS-Vue-Database-Repository)
 
 ---
 
-### 3️⃣ 供应链管理系统（Supply Management）
+### 3️⃣ Supply Management System
 
-📅 本科毕业设计  2025
+📅 Undergraduate Graduation Project · 2025
 
-**📝简介：** 一个内置AI助理”青屿智联“的供应链管理系统，支持对产品与物流的管理。
+**📝 Description:** A supply chain management system with a built-in AI assistant **"Qingyu Intelligence"**, supporting product and logistics management.
 
-**💻技术栈：** Java; Spring Boot; MySQL; HTML 
+**💻 Tech Stack:** Java; Spring Boot; MySQL; HTML 
 
-**💡灵感来源：**
+**💡 Inspiration:**
 
-1. DeepSeek
-2. MCP
-3. Cities Skylines II
+1. DeepSeek  
+2. MCP  
+3. Cities: Skylines II  
 4. Obsidian
 
-**🚀技术挑战：** AI Agent & AI Assistant
+**🚀 Technical Challenge:** AI Agent & AI Assistant
 
-**⚙项目地址：**[点击这里](https://github.com/JasonStephen/Supplymanagement)
+**⚙ Project Link:** [Click here](https://github.com/JasonStephen/Supplymanagement)
 
 ---
 
-### 4️⃣ 记忆空间（MemoSpace）
+### 4️⃣ MemoSpace
 
-📅 个人长期项目  2026
+📅 Personal Long-Term Project · 2026
 
-**📝简介：** 一个用于记录与组织想法的 **个人记忆空间系统**。项目旨在构建一个 **轻量级知识管理与思维记录工具**。支持**音乐卡片**和**思维卡片**
+**📝 Description:** A **personal memory space system** for recording and organizing ideas.  
+The project aims to build a **lightweight knowledge management and thinking tool**, supporting **Music Cards** and **Mind Cards**.
 
-**💻技术栈：** Python · FastAPI · SQLite  
+**💻 Tech Stack:** Python · FastAPI · SQLite  
 
-**💡灵感来源：** 
+**💡 Inspiration:** 
 
-1. Flomo (Memos)
+1. Flomo (Memos)  
 2. Obsidian
 
-**⚙项目地址：**[点击这里](https://github.com/JasonStephen/MemoSpace)
+**⚙ Project Link:** [Click here](https://github.com/JasonStephen/MemoSpace)
   
 ---  
+
+## 🧭 Long-Term Interests  
+
+The areas I continuously focus on include:  
   
-## 🧭 长期兴趣方向  
+**Engineering & Systems**  
   
-我长期关注的领域包括：  
+- System design and development    
+- Game reverse engineering
   
-**工程与系统**  
-  
-- 系统设计与开发    
-- 游戏逆向
-  
-**技术与认知**  
+**Technology & Cognition**  
   
 - AI Agents  
-- 产品设计  
+- Product design  
   
-**表达与创作**  
+**Expression & Creation**  
   
-- 摄影  
-- 视频制作  
-- 技术内容表达  
-  
----  
-  
-## 🎮 游戏与系统观察  
-  
-游戏对我来说不仅是娱乐，更像是 **复杂系统的实验场**。  
-  
-我长期关注**游戏与系统背后的设计与逻辑**。
-  
-这些系统往往能很好地展示 **现实世界结构的简化模型**。  
+- Photography  
+- Video production  
+- Technical content creation  
   
 ---  
+
+## 🎮 Games as System Observation  
+
+For me, games are not only entertainment but also **experimental environments for complex systems**.  
   
-## 🛠 我也正在学习 
+I have long been interested in **the design and logic behind game systems**.
+  
+These systems often present **simplified models of real-world structures**.  
+  
+---  
 
-### ⚙1. 计算机专业相关：
+## 🛠 What I Am Currently Learning
 
-**主要使用：** Python
+### ⚙1. Computer Science
 
-**其他使用：** Java, C#
+**Primary:** Python  
 
-**正在学习：** C++, C#
+**Also used:** Java, C#  
 
-### 📷2. 艺术专业相关：
+**Currently learning:** C++, C#
 
-**主要接触：** Premiere, Photoshop, Illustrator
+### 📷2. Creative / Media
 
-**能力：** 摄影, 剪辑
+**Tools:** Premiere, Photoshop, Illustrator  
 
-### 🧠3. 心理学专业相关：
+**Skills:** Photography, Video Editing
 
-**正在探索与学习中**
+### 🧠3. Psychology
+
+**Currently exploring and learning**
