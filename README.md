@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Study in WZBC
+- 🔭 I’m currently Study in University Of Nottingham
 - 🌱 I’m currently learning Computer Science and Technology
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
