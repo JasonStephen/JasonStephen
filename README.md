@@ -19,6 +19,9 @@
 
 🧩 Motto: Let interest become a way to overcome anxiety.
 
+<details>
+<summary>Click For More Details</summary>
+
 ---  
 
 ## 💡 My Core Interests  
