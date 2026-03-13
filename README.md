@@ -1,3 +1,7 @@
+<p align="center">
+<a href="README.md">🇨🇳 中文</a> | <a href="README_EN.md">🇬🇧 English</a>
+</p>
+
 # 👋 你好，我是 Jason Stephen
 
 ## 🧔我是谁
