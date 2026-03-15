@@ -8,12 +8,12 @@
 
 🎓 Computer Science @ University of Nottingham (UK) **(Master of Science)**
 
-💻 Major courses: Web System Development, SQL Database Management, Computer Networks, Software Testing
+💻 Major courses: Machine Learning, Symbolic Artificial Intelligence, Agent Design, Unity Game Development, ROS2 Autonomous Robotics
 
 
 🎓 Computer Science and Technology @ Wenzhou Business College (China) **(Bachelor of Engineering)**
 
-💻 Major courses: Machine Learning, Symbolic Artificial Intelligence, Agent Design, Unity Game Development, ROS2 Autonomous Robotics
+💻 Major courses: Web System Development, SQL Database Management, Computer Networks, Software Testing
 
 🧠 MBTI: ENFJ mind · INTJ thinking.
 
